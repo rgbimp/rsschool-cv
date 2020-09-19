@@ -1,1 +1,1 @@
-# rsschool-cv
+https://rgbimp.github.io/rsschool-cv/cv
