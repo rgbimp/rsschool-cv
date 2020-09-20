@@ -1,0 +1,58 @@
+body {
+    max-width: 1024px;
+    margin: 2% auto;
+    padding: 1%;
+    min-width: 450px;
+    background-color: brown;
+}
+
+header, footer {
+    background-color: rgb(255, 196, 144);
+    padding: 0 2%;
+}
+
+header {
+    background-image: url('images/user_photo.jpg');
+    background-repeat: no-repeat;
+    background-size: 100px;
+    background-position: 5px 5px;
+    height: 143px;
+    padding-left: 140px;
+    font-size: 36px;
+    vertical-align: bottom;
+    line-height: 140px;
+}
+
+main {
+    background-color: rgb(255, 225, 200);
+    
+}
+
+article {
+    margin: 0 auto 0 110px;
+    padding: 10px;
+}
+
+.photo img{
+    width: 100px;
+    margin: 5px;
+}
+
+.header-section {
+    font-size: 16px;
+    font-weight: bold;
+    padding: 10px;
+}
+
+footer>div{
+    display: inline-block;
+    margin: auto 15px;
+    height: 50px;
+    vertical-align: middle;
+    line-height: 50px;
+    width: 30%;
+}
+
+.mail {
+    min-width: 153px;
+}
