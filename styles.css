@@ -1,9 +1,10 @@
 body {
     max-width: 1024px;
     margin: 2% auto;
-    padding: 1%;
+    
     min-width: 450px;
-    background-color: brown;
+    background-color: rgb(255, 225, 200);
+    box-shadow: 0 0 10px black;
 }
 
 header, footer {
@@ -12,15 +13,29 @@ header, footer {
 }
 
 header {
-    background-image: url('images/user_photo.jpg');
-    background-repeat: no-repeat;
-    background-size: 100px;
-    background-position: 5px 5px;
-    height: 143px;
-    padding-left: 140px;
+    height: 250px;
+}
+
+.myself-photo {
+    width: 150px; 
+    box-shadow: 0 0 5px black;
+}
+
+.user-photo {
+    float: left;
+    width: 160px;
+    margin: 25px;
+
+}
+
+.user-info {
+    margin: 25px;
+    float: left;
+}
+
+h1 {
+   /* line-height: 140px;*/
     font-size: 36px;
-    vertical-align: bottom;
-    line-height: 140px;
 }
 
 main {
@@ -39,7 +54,7 @@ article {
 }
 
 .header-section {
-    font-size: 16px;
+    font-size: 18px;
     font-weight: bold;
     padding: 10px;
 }
