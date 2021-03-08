@@ -1,7 +1,7 @@
 body {
     max-width: 1024px;
     margin: 2% auto;
-    
+
     min-width: 450px;
     background-color: rgb(255, 225, 200);
     box-shadow: 0 0 10px black;
@@ -10,6 +10,7 @@ body {
 header, footer {
     background-color: rgb(255, 196, 144);
     padding: 0 2%;
+    
 }
 
 header {
@@ -61,13 +62,31 @@ article {
 
 footer>div{
     display: inline-block;
-    margin: auto 15px;
-    height: 50px;
+    margin: 3px;
+    height: 54px;
     vertical-align: middle;
     line-height: 50px;
-    width: 30%;
+
+}
+
+.github > a {
+    color: black;
+    text-decoration: none;
+}
+
+.github > a:hover {
+    text-decoration: underline;
 }
 
 .mail {
     min-width: 153px;
+}
+
+.github,
+.rsschool {
+    width: 20%;
+}
+
+.between {
+    width: 50%;
 }
