@@ -1,0 +1,92 @@
+body {
+    max-width: 1024px;
+    margin: 2% auto;
+
+    min-width: 450px;
+    background-color: rgb(255, 225, 200);
+    box-shadow: 0 0 10px black;
+}
+
+header, footer {
+    background-color: rgb(255, 196, 144);
+    padding: 0 2%;
+    
+}
+
+header {
+    height: 250px;
+}
+
+.myself-photo {
+    width: 150px; 
+    box-shadow: 0 0 5px black;
+}
+
+.user-photo {
+    float: left;
+    width: 160px;
+    margin: 25px;
+
+}
+
+.user-info {
+    margin: 25px;
+    float: left;
+}
+
+h1 {
+   /* line-height: 140px;*/
+    font-size: 36px;
+}
+
+main {
+    background-color: rgb(255, 225, 200);
+    
+}
+
+article {
+    margin: 0 auto 0 110px;
+    padding: 10px;
+}
+
+.photo img{
+    width: 100px;
+    margin: 5px;
+}
+
+.header-section {
+    font-size: 18px;
+    font-weight: bold;
+    padding: 10px;
+}
+
+footer>div{
+    display: inline-block;
+    margin: 3px;
+    height: 54px;
+    vertical-align: middle;
+    line-height: 50px;
+
+}
+
+.github > a {
+    color: black;
+    text-decoration: none;
+}
+
+.github > a:hover {
+    text-decoration: underline;
+}
+
+.mail {
+    min-width: 153px;
+}
+
+.github,
+.rsschool {
+    width: 20%;
+}
+
+.between {
+    width: 50%;
+}

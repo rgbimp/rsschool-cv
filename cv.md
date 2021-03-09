@@ -1,0 +1,20 @@
+- **Alena Kuznetsova**
+- Contacts:
+    - **e-mail**: rgb.imp@gmail.com
+    - **phone**: +7 920 0171554
+    - **skype**: r-g-bes
+- **Objective**: 
+    - JS Junior Developer
+- **I'm planning**:
+    - to change my job because I don't see the perspective on my current work;
+    - to improve my skills in JS and use it for work in future;
+    - to have a pleasure of brain work and to understand my husband's special speech.
+- **Languages**:
+    - Russian - native;
+    - English - A2 (writing, listenig).
+- **Skills**
+    - HTML, CSS - have confident knowleges and experience;
+    - JS, Git - have some experience;
+    - React, Flutter - have some theoretical knowledges.
+- **Graduated**
+    - Lobachevsky University, the Faculty of Mechanics and Mathematics, Department of Theory of Functions
